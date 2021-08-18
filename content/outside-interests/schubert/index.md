@@ -4,6 +4,7 @@ date: 2021-03-14T19:14:17-04:00
 draft: false
 hideLastModified: true
 summary: "The rockstar dog."
+summaryImage: "Schub-music.webp"
 tags: ["Schubert", "music"]
 ---
 

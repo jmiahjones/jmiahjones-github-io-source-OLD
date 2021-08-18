@@ -24,6 +24,11 @@ I have several research interests, mostly focusing on causal inference problems:
 * Post-selection inference techniques
 * Personalized medicine through indivualized treatment strategies
 
-Find out more about my [Research Interests](/research-interests) and [Outside Interests](/outside-interests). Otherwise, check out my [Github](https://www.github.com/jmiahjones/) or
-[LinkedIn](https://www.linkedin.com/in/jeremiah-jones-52b15385/)!
+Find out more about my [Research Interests](/research-interests) and [Outside Interests](/outside-interests), read my CV, or check me out on Github or LinkedIn!
 
+
+{{< center >}}
+{{<fa-link fa-book fa "/files/jeremiah-jones-cv.pdf" >}} My CV {{< /fa-link >}} 
+{{<fa-link fa-linkedin fa "https://www.linkedin.com/in/jeremiah-jones-52b15385/" >}}My LinkedIn{{< /fa-link >}} 
+{{<fa-link fa-github fa "https://www.github.com/jmiahjones/" >}}My Github{{< /fa-link >}} 
+{{< /center >}}

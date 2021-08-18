@@ -23,6 +23,7 @@ disableKinds: ["sitemap","RSS"]
 # Option to specify that all links will be open in a new tab.
 blackfriday:
   hrefTargetBlank: true
+  smartypants: false
 
 Taxonomies:
   tag: "tags"
@@ -69,7 +70,7 @@ params:
   # main pages options
   mainPage:
     # option to specify the main font of the theme
-    fontFamily: "Fira Code" 
+    fontFamily: "Roboto" 
 
   # sidebar options
   sidebar:
@@ -77,12 +78,12 @@ params:
     # the starting folder is configure in "assetDir" of this file
     logo: "/favicon.ico"
     # option to specify the font of the sidebar
-    fontFamily: "Fira Code" # "Open Sans"
+    fontFamily: "Roboto" # "Open Sans"
 
   # navbar options
   navbar:
     # option to specify the font used in the navbar
-    fontFamily: "Fira Code"
+    fontFamily: "Roboto"
     # option to show the little logos on the side of the navbar items
     showIcons: false
     
@@ -123,6 +124,10 @@ params:
     email: 
       link: jeremiah_jones@urmc.rochester.edu
       title: My Email
+    # option to specify your cv file in the footer
+    cv:
+      link: /files/jeremiah-jones-cv.pdf
+      title: My CV
     # option to specify your linkedin profile in the footer
     linkedin: 
       link: in/jeremiah-jones-52b15385
@@ -149,6 +154,7 @@ params:
     #    title: Instagram
     # option to specify the copyright in the footer
     copyright: Jeremiah Jones - 2021
+  # options for CV/Resume
 
 ###################################################################
 ################## multilanguage support options ##################
